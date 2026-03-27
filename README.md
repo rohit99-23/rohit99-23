@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit99-23&show_icons=true)
+![Rohit's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rohit99-23&show_icons=true&theme=tokyonight)
 
 ---
 
