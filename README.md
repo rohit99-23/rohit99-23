@@ -32,7 +32,7 @@
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
 
-### 🔄 CI/CD & IaC
+### CI/CD & IaC
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
 ![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)
 ![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
